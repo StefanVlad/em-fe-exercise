@@ -1,6 +1,6 @@
-# empty-project
+# em-fe-exercise
 
-Empty project.
+EveryMatrix Front-end exercise.
 
 ## Building and running on localhost
 
