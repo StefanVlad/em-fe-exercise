@@ -21,13 +21,8 @@ To create a development build:
 ```sh
 npm run build-dev
 ```
-
-## Running
+To start dev server:
 
 ```sh
-node dist/bundle.js
+npm run dev-server
 ```
-
-## Credits
-
-Made with [createapp.dev](https://createapp.dev/)
